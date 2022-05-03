@@ -17,7 +17,7 @@ if class1 == 1:
     else:
         rate=0.1
 elif class1 == 2:
-    if sales_amount <= 1000:
+    if sales_amount < 1000:
       rate=0.04
     else:
         rate=0.06
