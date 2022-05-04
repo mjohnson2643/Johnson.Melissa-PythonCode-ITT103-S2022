@@ -2,7 +2,7 @@
 #Date Created:April-25- 2022
 # Course: ITT103
 # Purpose: To create a program using python that can  accurately calculate the commission received by a salesperson at JamEx Limited.
-sales_person_number  =(input("please enter sale's person number"))
+sales_person_number  =(input("please enter sales person number"))
 if len(sales_person_number) != 4:
         print("The salesperson's number must be 4 digits\n")
 else:
